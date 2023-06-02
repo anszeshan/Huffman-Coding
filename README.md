@@ -1,5 +1,5 @@
 # Huffman-Coding
-Data Structures : Huffman Coding by using the linked implementation of the Binary Tree. And Array implementation of Ordered Queue.
+Data Structures : Huffman Coding by using the linked implementation of the Binary Tree. And Array implementation of Ordered Queue in Java.
 
 Overview of how it Works! 
 You’ve probably heard about David Huffman and his popular compression algorithm
